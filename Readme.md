@@ -1,5 +1,7 @@
 I do not own any of these images used on this landing page. 
 
+Live Preview : https://justinleonghk.github.io/landingPage/
+
 Credits to these websites. 
 
 Logo:
